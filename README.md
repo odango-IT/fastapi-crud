@@ -1,2 +1,3 @@
 # fastapi-crud
-FastAPIを使ったメモアプリ。DBなし
+FastAPIを使ったメモアプリ。
+DBなし。
